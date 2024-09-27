@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Sep 25 06:58:38 2024</timestamp>
+			<uuid>{511a6ea0-5f6e-48ed-ab3d-7141d89d7e20}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.13
+			<timestamp>Sep 25 07:28:20 2024</timestamp>
+			<uuid>{6859d09b-5177-418f-ab11-4614668b8671}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.14
+			<timestamp>Sep 25 07:29:58 2024</timestamp>
+			<uuid>{764137ee-f97f-49e4-864f-e8b61d1ed4c5}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.15
+			<timestamp>Sep 25 07:35:10 2024</timestamp>
+			<uuid>{d0203802-008b-4ba0-9b08-d0d2f212ff35}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.16
+			<timestamp>Sep 25 07:38:52 2024</timestamp>
+			<uuid>{5cf117a9-8e14-473a-938f-35f887f622bb}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.17
+			<timestamp>Sep 25 07:41:21 2024</timestamp>
+			<uuid>{a6b7da7e-3b1f-4ec1-b74a-7214705facdd}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.18
+			<timestamp>Sep 25 07:49:07 2024</timestamp>
+			<uuid>{adc26037-51fe-4cef-b5d4-d07b03647c23}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.19
+			<timestamp>Sep 25 07:52:40 2024</timestamp>
+			<uuid>{07ba73cd-c39a-41c3-9d99-03690d507568}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.20
+			<timestamp>Sep 26 05:02:30 2024</timestamp>
+			<uuid>{9b94455e-0fad-4076-bc88-d8370befc660}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.21
+			<timestamp>Sep 26 05:04:04 2024</timestamp>
+			<uuid>{86fd83fb-180d-46b7-a52d-d4cce843925a}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.22
+			<timestamp>Sep 26 05:04:42 2024</timestamp>
+			<uuid>{fa5ced23-5aec-47e7-9065-0edf84f18df8}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/cadencepc/Documents/Cadence_Workarea/circuit_design_SKY130/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/cadencepc/simulation/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/CASS_Competition/fractional_cap_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+	</history>
+</setupdb>
